@@ -1,7 +1,7 @@
 
 # CodeX Brand Analysis – F&B Market Intelligence Project
 
-## Overview
+## Dashboard Preview
 
 ---
 <img width="1228" height="686" alt="image" src="https://github.com/user-attachments/assets/822fa3ed-5e75-4a6e-97fe-d6a92f0c104c" />
@@ -64,7 +64,7 @@ The final dashboard was built using **Power BI**, and the data preprocessing was
 - **Power BI** – For interactive dashboards and KPI visualization.
 - **Python (Pandas, Matplotlib)** – For cleaning and analyzing raw survey data.
 - **SQL (SQLite)** – For querying structured responses and aggregating insights.
-
+  
 ---
 
 ## Impact
@@ -75,11 +75,13 @@ The final dashboard was built using **Power BI**, and the data preprocessing was
 
 ---
 
-## Dashboard Preview
+## Author
 
-_(Optional: Add screenshot of your Power BI dashboard here)_
+**Aniruddha Singh Yadav**  
+B.Tech, Production and Industrial Engineering – DTU  
+[LinkedIn](https://linkedin.com/in/aniruddhsingh23) | [Email](mailto:aniruddhasinghyadav.pe22b13@dtu.ac.in)
 
 ---
 
-## Folder Structure
+
 
